@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.env.*
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+log.txt
+
+# Local data / history
+*.db
+chat_history.txt
+conv_history.txt
+history.txt
+input.txt
+speech_output.txt
+
+# Generated files
+generated_image.png
+
+# ChromeDriver
+chromedriver-win64/
+chromedriver.exe
+
+# OS
+.DS_Store
+Thumbs.db__pycache__/
+*.pyc
